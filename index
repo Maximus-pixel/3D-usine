@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Accueil - Dossier 1</title>
+</head>
+<body>
+    <h1>Bienvenue dans le Dossier 1</h1>
+    <p>Ceci est la page d’index du premier dossier.</p>
+</body>
+</html>
